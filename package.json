@@ -1,0 +1,27 @@
+{
+  "name": "doodle360",
+  "version": "1.0.0",
+  "description": "doodle360",
+  "main": "server.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contactjoshua/doodle360.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/contactjoshua/doodle360/issues"
+  },
+  "homepage": "https://github.com/contactjoshua/doodle360#readme"
+}
